@@ -1,7 +1,40 @@
 # Operació NordTec
 ## Arnau Aixut
-### Primera clase
+### ASIX 1B
 **Negrita** i _Cursiva_
+
+## Índex
+- [Operació NordTec](#operació-nordtec)
+  - [Arnau Aixut](#arnau-aixut)
+    - [ASIX 1B](#asix-1b)
+  - [Índex](#índex)
+  - [Estat del projecte](#estat-del-projecte)
+  - [Arquitectura de xarxa](#arquitectura-de-xarxa)
+  - [Configuracions](#configuracions)
+  - [Incidències i solucions](#incidències-i-solucions)
+  - [Decisions tècniques](#decisions-tècniques)
+  - [Reflexions tècniques](#reflexions-tècniques)
+    - [Llista inici](#llista-inici)
+    - [Llista dia a dia](#llista-dia-a-dia)
+    - [Taula](#taula)
+
+
+## Estat del projecte
+
+
+## Arquitectura de xarxa
+
+**Informació rellevant:**
+
+## Configuracions
+
+## Incidències i solucions
+29/09/2026 - No he tingut cap incidencia avui.
+
+## Decisions tècniques
+
+## Reflexions tècniques
+
 
 ### Llista inici
 1. git --version
@@ -32,6 +65,3 @@ git pull = Descarrega les ultimes versions dels archius de git hub
 git push -u = Pujar les versions ja guardades del archiu
 git --version = diu la versió utilitzada del git
 git remote add origin (URL git hub) = Vincules el teu directori de git hub
-
-### Incidencies
-29/09/2026 - No he tingut cap incidencia avui.
